@@ -1,0 +1,114 @@
+{
+  "main": {
+    "name": "Devon Bagley",
+    "occupation": "Software Engineer",
+    "description": "I'm looking for the start of my career developing, testing, and releasing the next best software. I am excited to begin putting my education and past work experiance to the test in a real work environment and find my next project to invest my drive and passion into",
+    "image": "profilepic.jpg",
+    "bio": "Over my time at Rochester Institute of Technology I focused on courses that would prepare me the most for working within real software development teams from the design phase to the release. I've experianced a wide range of roles from simple Technical support assisting with updating legacy programs to Quality Assurance and Integration engineer implementing CI/CD pipelines and even the product manager over a semester long Enterpise application.",
+    "contactmessage": "You can use this to send me an email and I'll get back to you as soon as possible!",
+    "email": "dbagley97@gmail.com",
+    "phone": "845-701-2795",
+    "address": {
+      "street": "324 Lindholm Rd",
+      "city": "Hurleyville",
+      "state": "New York",
+      "zip": "12747"
+    },
+    "website": "http://www.dbagley.com",
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/devonbagley97",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/devon-bagley-27a1bb206/",
+        "className": "fa fa-linkedin"
+      }      
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "Rochester Institute of Technology",
+        "degree": "Bachelor Degree in Software Engineering",
+        "graduated": "May 2020",
+        "description": "My degree in Software Engineering differs from other Computer Science related degrees by focusing on the design, implementation, and process used within software development teams today. I was able to build upon my teamwork, project management, and quality assurance through team projects, RIT's Co-op internship program, and working directly on RIT campus applications."
+      }      
+    ],
+    "work": [
+      {
+        "company": "Analytical Graphics Inc.",
+        "title": "Software Testing and Integration Co-op",
+        "years": "August 2018 - April 2019",
+        "description": "I created and managed a test suite in their newest 3D model processing tool, the Geospatial Content Server. I supervised testing of releases/deployment and suggested/tracked bug fixes. I used Selenium to create unit and regression tests for the application as well as Jmeter for automated testing of the performance of api calls and the 3d model processing power of the application. This was a relatively new feature set for one of their applications and so I was one of the leads in creating the baseline of Jmeter tests and printouts. I also managed final testing of release builds of the project within a Gradle and Docker build pipeline."
+      },
+      {
+        "company": "Irwin Siegel Agency",
+        "title": "Software Development Intern",
+        "years": "june 2019 - August 2019",
+        "description": "Developed, restructured, and updated versions of multiple Visual Basic forms and live SQL tables for insurance software systems. The work effort included bug fixing, training, and technical support calls. I worked on updating legacy code for many of their in house applications as well as follow up with clients on suggested additions for those updates."
+      },
+      {
+        "company": "RITcruiter App (Senior Project)",
+        "title": "Software Developer",
+        "years": "January 2020 - May 2020",
+        "description": "Developing an ONET Api based word search and artificial intelligence matching of student profiles to Job postings for RIT Career Services. I worked within a react application to make api calls for popular job related keywords and positions that would be used within a resume building and matching application for RIT career fairs. It took advantage of a google AI keyword search and a dictionary of related ONET job classifications."
+      },
+      {
+        "company": "Enterprise Accounting App (RIT)",
+        "title": "Team lead/Product Manager",
+        "years": "January 2020 - May 2020",
+        "description": "I led a team of four to create an Accounting application in .NET. I collaborated and integrated with other department teams over cloud services to produce a full scope enterprise application. This project involved a class of approximately 25 students in which we were treated as a start-up company. I was the lead of the accounting team in charge of building, from design to deployment, an application for managing budget, payroll, and incoming/outgoing sales with apis connecting to the other 4 teams/departments. The application was built on .NET using Azure cloud webservices and I managed our teams using tools such as Jira, slack, and Zoom to keep a agile development process rolling as we adapted to the start of the Covid Pandemic."
+      }
+    ],
+    "skillmessage": "How confortable am I with?",
+    "skills": [
+      {
+        "name": "Java",
+        "level": "70%"
+      },
+      {
+        "name": "Ruby",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "70%"
+      },
+      {
+        "name": "SQL",
+        "level": "70%"
+      },
+      {
+        "name": "C/C#",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "60%"
+      },
+      {
+        "name": "Selenium",
+        "level": "80%"
+      },
+      {
+        "name": "Docker",
+        "level": "70%"
+      },
+      {
+        "name": "Visual Studio",
+        "level": "90%"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "We were fortunate to have Devon for close to 8 months, affording time to show a good trajectory of capability in his assignments. He contributed much to the quality of the GCS product and we were happy to have him here as long as we did",
+        "user": "Janet Reynolds, AGI Director of Software Quality"
+      }
+    ]
+  }
+}
