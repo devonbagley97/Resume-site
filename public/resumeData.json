@@ -2,7 +2,7 @@
   "main": {
     "name": "Devon Bagley",
     "occupation": "Software Engineer",
-    "description": "I'm looking for the start of my career developing, testing, and releasing the next best software. I am excited to begin putting my education and past work experiance to the test in a real work environment and find my next project to invest my drive and passion into",
+    "description": "I'm looking for the start of my career developing, testing, and releasing the next best software. I am excited to begin putting my education and past work experience to the test in a real work environment and find my next project to invest my drive and passion into",
     "image": "profilepic.jpg",
     "bio": "Over my time at Rochester Institute of Technology I focused on courses that would prepare me the most for working within real software development teams from the design phase to the release. I've experianced a wide range of roles from simple Technical support assisting with updating legacy programs to Quality Assurance and Integration engineer implementing CI/CD pipelines and even the product manager over a semester long Enterpise application.",
     "contactmessage": "You can use this to send me an email and I'll get back to you as soon as possible!",
@@ -61,6 +61,12 @@
         "title": "Team lead/Product Manager",
         "years": "January 2020 - May 2020",
         "description": "I led a team of four to create an Accounting application in .NET. I collaborated and integrated with other department teams over cloud services to produce a full scope enterprise application. This project involved a class of approximately 25 students in which we were treated as a start-up company. I was the lead of the accounting team in charge of building, from design to deployment, an application for managing budget, payroll, and incoming/outgoing sales with apis connecting to the other 4 teams/departments. The application was built on .NET using Azure cloud webservices and I managed our teams using tools such as Jira, slack, and Zoom to keep a agile development process rolling as we adapted to the start of the Covid Pandemic."
+      },
+      {
+        "company": "This Resume Website",
+        "title": "Developer",
+        "years": "July 9th, 2021 - Now ",
+        "description": "I wanted to show a little of what I could do now that it has been a year since I've graduated. Due to Covid-19 many of the positions I had lined up after college stopped their hiring processes and with the intense climate of changes, I spent most of my time with family and doing small favors for past friends/locals. I made this site to demonstrate some of the development processes that I learned from work at AGI and want to build upon. This website is on my github here: https://github.com/devonbagley97/Resume-site and can be pulled from dockerhub here using this: docker pull dbagley97/resumesite:latest"
       }
     ],
     "skillmessage": "How confortable am I with?",
